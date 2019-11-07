@@ -1,0 +1,19 @@
+{
+  "name": "gql-server",
+  "version": "0.0.1",
+  "description": "graphql server made in nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavargas40/gql-server.git"
+  },
+  "author": "cavargas40@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavargas40/gql-server/issues"
+  },
+  "homepage": "https://github.com/cavargas40/gql-server#readme"
+}
